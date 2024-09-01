@@ -1,0 +1,1 @@
+This Expense Tracker application helps users manage and visualize their financial transactions. The project features a pink-based theme with a responsive design. Key functionalities include tracking income and expenses, displaying data in a pie chart to illustrate the distribution of funds, and offering a user-friendly interface.
