@@ -30,7 +30,7 @@ function updateMoney() {
         }
     });
 
-    balance = totalIncome - totalExpenses;
+    balance = totalIncome + totalExpenses;
 
     // Updating the UI
     incomeBox.innerText = totalIncome.toFixed(2);
