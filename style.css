@@ -1,6 +1,7 @@
 :root {
     --primary-clr: rgb(193, 149, 196);
-    --highlight-clr: rgba(255, 182, 193, 0.8); /* Pink-based highlight */
+    --highlight-clr: rgba(255, 182, 193, 0.8);
+    /* Pink-based highlight */
 }
 
 * {
@@ -169,11 +170,12 @@ table {
     position: relative;
 }
 
-th, td {
+th,
+td {
     border: 2px solid rgba(162, 66, 136, 0.474);
     padding: 10px;
     text-align: center;
-    background-color: rgba(162, 66, 136, 0.474) ;
+    background-color: rgba(162, 66, 136, 0.474);
 }
 
 tbody tr {
